@@ -1,0 +1,26 @@
+Image,Question,LLaVA Answer,Human Evaluation,score
+vqa_1.jpg,How many people are visible?,"There is only one person visible in the image, a little girl.",correct,1
+vqa_1.jpg,What objects can you see?,"In the image, you can see a little girl, a rainbow, and a painting area. The girl is sitting in front of the rainbow, and there are several bowls and cups on the ground near her.",correct,1
+vqa_1.jpg,Where are the people?,"The people are in the background, behind the child who is painting on the wall.",wrong,0
+vqa_1.jpg,What are they doing?,The little girl is painting a picture of a rainbow on a large piece of paper.,correct,1
+vqa_1.jpg,"Is there any text visible (for example on a board or a sign)? If so, what does it say?","Yes, there is text visible in the image. The text says ""Rainbow.""",wrong,0
+vqa_2.jpg,How many people are visible?,There is only one person visible in the image.,correct,1
+vqa_2.jpg,What objects can you see?,"In the image, you can see a man lying on a bench, a dog sitting on a bench next to him, and a waterfall in the background.",correct,1
+vqa_2.jpg,Where are the people?,The people are not visible in the image. The focus is on the dog and the bench where the dog is sitting.,wrong,0
+vqa_2.jpg,What are they doing?,"The man is laying on a bench, possibly taking a nap or resting, while the dog is sitting or laying nearby.",correct,1
+vqa_2.jpg,"Is there any text visible (for example on a board or a sign)? If so, what does it say?","Yes, there is a sign visible in the image. The sign says ""no swimming.""",wrong,0
+vqa_3.jpg,How many people are visible?,There are five people visible in the image.,correct,1
+vqa_3.jpg,What objects can you see?,"In the image, you can see a group of people sitting on chairs, a bookshelf, a lamp, and a few books.",correct,1
+vqa_3.jpg,Where are the people?,"The people are in a living room, sitting on chairs and playing musical instruments.",correct,1
+vqa_3.jpg,What are they doing?,"The group of people is sitting around a table, playing music together. They are likely enjoying a casual gathering or a small concert, where they are sharing their musical talents and having a good time.",correct,1
+vqa_3.jpg,"Is there any text visible (for example on a board or a sign)? If so, what does it say?","Yes, there is a sign visible in the image. The sign says ""no smoking.""",wrong,0
+vqa_4.jpg,How many people are visible?,There are four people visible in the image.,correct,1
+vqa_4.jpg,What objects can you see?,"In the image, you can see a woman playing a flute, a woman playing a violin, and a woman playing a cello. These instruments are placed on a table, and the musicians are sitting around it.",wrong,0
+vqa_4.jpg,Where are the people?,"The people are in a living room, playing musical instruments.",correct,1
+vqa_4.jpg,What are they doing?,"The group of people is playing musical instruments, specifically playing the violin and cello, in a living room.",correct,1
+vqa_4.jpg,"Is there any text visible (for example on a board or a sign)? If so, what does it say?","Yes, there is a music score visible in the image. The score is placed on a stand, and the group of people is playing music together.",correct,1
+vqa_5.jpg,How many people are visible?,There is only one person visible in the image.,correct,1
+vqa_5.jpg,What objects can you see?,"In the image, you can see a boat, a pier, and a person standing on the pier.",wrong,0
+vqa_5.jpg,Where are the people?,The people are standing on a boat in the middle of the ocean.,wrong,0
+vqa_5.jpg,What are they doing?,"The people in the image are standing on a boat, possibly a small boat or a raft, in the middle of the ocean.",wrong,0
+vqa_5.jpg,"Is there any text visible (for example on a board or a sign)? If so, what does it say?","Yes, there is a sign visible in the image. The sign says ""No Swimming.""",wrong,0

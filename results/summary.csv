@@ -1,0 +1,7 @@
+Item,Result
+CLIP zero-shot accuracy (Ex. 5),90.0% on 30 images
+Best prompt (Ex. 6),a photograph showing a cat
+Top-1 retrieval for the football query (Ex. 8),football_02.jpg (cos 0.296)
+LLaVA model,llava-hf/llava-1.5-7b-hf
+VQA accuracy (Ex. 11),60%
+"Hallucination probe (Ex. 12, 'What color is the bicycle?')",The bicycle is pink.
