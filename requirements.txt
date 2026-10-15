@@ -11,5 +11,3 @@ matplotlib
 pandas
 jupyter
 ipykernel
-# optional, for the web UI cell of the mini-project:
-# gradio
