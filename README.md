@@ -40,7 +40,6 @@ Run on an NVIDIA RTX 5070 Ti (16 GB): CLIP ViT-B/32 in fp32, LLaVA-1.5-7B in 4-b
 ├── LAB_CLIP_LLaVA_Full.ipynb        # the lab: code, outputs, answers
 ├── results/                         # deliverables saved by the notebook (CSV, PNG, MD)
 ├── prepare_assets.py                # downloads the lab images into assets/
-├── clean_notebook_for_github.py     # strips widget state so GitHub can preview the notebook
 ├── requirements.txt
 └── assets/
     ├── image.jpg          # main test image (two cats, no bicycle)    Ex. 2, 3, 4, 6, 12, 13
